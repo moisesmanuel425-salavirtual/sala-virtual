@@ -1,0 +1,7 @@
+{
+  "name": "Sala Virtual de Ciência e Tecnologia",
+  "description": "Uma plataforma educativa avançada especializada em comunicações via satélite, com tutor IA inteligente e simulações orbitais.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
